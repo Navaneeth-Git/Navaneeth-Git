@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey there!
 🌐 Learning New Languages: I'm currently diving into C & Java to broaden my linguistic skills and cultural understanding.<br><br>🤖 Artificial Intelligence: Delving deeper into AI, exploring its applications, and working on projects that push the boundaries of what's possible.<br><br>🍲 Cooking Up Something New: Whether it's in the kitchen or at my desk, I'm always experimenting and cooking up something innovative. Stay tuned for exciting projects!
 
 
@@ -23,6 +23,7 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/quackityduck) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/navaneethnandakumar) 
+
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe?si=cc9c48718a354fbb)
 
